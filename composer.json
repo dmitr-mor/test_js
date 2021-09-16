@@ -1,0 +1,16 @@
+{
+  "name": "dmitr-mor/test_js",
+  "description": "Test composer JS",
+  "version": "0.0.1",
+  "type": "library",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitry Morev",
+      "email": "morevdmitv@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
