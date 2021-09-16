@@ -1,1 +1,3 @@
-console.log('test');
+function log(message) {
+    console.log(message);
+}
